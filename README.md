@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @reflect1ver
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-reflect1ver/reflect1ver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 About Me :
+I am a Developer from Russia.
+- 👋 Hi, my name is Vsevolod.
+- 👀 I’m interested in programming, sport and computer games.
+- 🌱 I’m currently learning C, C++ and SQL, but always open to new things.
+- 💞️ I’m looking for a company that is willing to take on a new team member.
+- 📫 How to reach me? TG: @hofl0ve, Mail: vsevolod.gridnev@mail.ru
